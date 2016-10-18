@@ -10,6 +10,9 @@ export class Hero{
 export class AppComponent {
 
   title = 'Tour of heroes';
-  hero = 'Spiderman';
+  hero: Hero = {
+    id:1,
+    name:'Spiderman'
+  };
 
  }
