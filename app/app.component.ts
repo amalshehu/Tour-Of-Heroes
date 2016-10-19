@@ -52,7 +52,7 @@ const HEROES: Hero[] = [
       cursor: pointer;
       position: relative;
       left: 0;
-      background-color: #EEE;
+      background-color: yellowgreen;
       margin: .5em;
       padding: .3em 0;
       height: 1.6em;
